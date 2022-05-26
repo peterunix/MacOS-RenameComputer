@@ -1,0 +1,8 @@
+* Details
+Changes the hostname for a computer on MacOS
+
+* Usage
+#+begin_src shell
+ComputerName="MyLaptop"
+./script.sh
+#+end_src
